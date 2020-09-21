@@ -1,0 +1,18 @@
+.index {
+    background-image: url(images/asia-map.jpeg);
+    height: 150px;
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
+
+.intro {
+    text-align: justify;
+}
+
+.menu {
+    list-style-position: inside;
+    text-align: center;
+}
